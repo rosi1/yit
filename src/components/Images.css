@@ -1,0 +1,11 @@
+.btn {
+  width: 100%;
+  margin: 5px;
+}
+.img-fields {
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+.img-fields input[text] {
+  width: 80%;
+}

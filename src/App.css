@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+@import url(https://fonts.googleapis.com/earlyaccess/opensanshebrewcondensed.css);
+
+body {
+  font-family: "Open Sans Hebrew", serif;
+}
+.container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
